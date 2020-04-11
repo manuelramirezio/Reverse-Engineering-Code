@@ -1,4 +1,4 @@
-$(document).ready(function() {
+$(document).ready(function () {
   $('.nav1').css('display', 'inline-block'); //Profile
   $('.nav2').css('display', 'none'); //Register
   $('.nav3').css('display', 'none'); //Login
