@@ -1,6 +1,8 @@
 # Reverse Engineering
-Reverse Engineering Code - UCF Coding BootCamp
+
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/FullStackForce)
+
+Reverse Engineering Code - UCF Coding BootCamp
 
 ![FullStackForce](engineering.gif)
 
